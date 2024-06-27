@@ -1,0 +1,52 @@
+@media screen and (max-width:570px) {
+      
+
+  .heading-container {
+    height: 50px;
+  }
+
+  .heading-container h1 {
+    font-size: 30px;
+  }
+
+
+  .choices {
+    gap: 5px;
+  margin-top: 3.5rem;
+      
+}
+
+  .choice {
+    height: 90px;
+    width: 90px;
+   
+  
+  }
+
+  .choice img {
+    height: 90px;
+    width: 90px;
+  }
+
+  .score-board{
+    margin-top: 2rem;
+  }
+
+  .msg-container{
+    margin-top: 1rem;
+  }
+
+  #msg{
+    margin-top: 2rem;
+    font-size: 15px;
+    padding: 0.5rem;
+  }
+
+  .footer{
+    margin-top: 4rem;
+  }
+
+
+
+
+}
