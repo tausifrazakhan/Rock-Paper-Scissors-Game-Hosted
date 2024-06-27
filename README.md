@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-Game-Hosted using HTML, CSS and javaScript
+Rock, Paper & Scissors Game using vanilla HTML, CSS & javaScript 
